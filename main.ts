@@ -6,7 +6,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "My houseplants staged an intervention yesterday: apparently watering them once a month isn't tough love, it's a hostage situation.";
+  "My houseplant died while I was on vacation, which is suspicious, because I'd been neglecting it at home for two years without any problems.";
 
 // The sealed scorer gives 0 to any entry over 200 characters, blank, or
 // more than one line, so refuse to write a line that would fail the gate.
